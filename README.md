@@ -11,18 +11,20 @@
 * **Interactive UI**: A **Gradio** web application for easy interaction with the AI Advisor.
 
 ---
-
 ## 🛠️ Project Structure
 
-* `src/`: Contains core logic modules (Preprocessing, Models, Search).
-* `app_gradio.py`: The entry point for the Gradio web interface.
-* `main.py`: Script to train models and evaluate performance.
-* `Project_Workflow.ipynb`: A detailed notebook covering the development journey.
-* `concept_explanation.md`: A simple breakdown of the technical concepts.
+The project is contained within a comprehensive Jupyter Notebook that covers the entire end-to-end pipeline:
 
+* **`Project_Workflow.ipynb`**: This is the main core of the project. It includes:
+    * **Data Preprocessing**: Cleaning and preparing the LinkedIn dataset.
+    * **Machine Learning**: Training and evaluating the Random Forest model for salary prediction.
+    * **Deep Learning**: Implementation of a Neural Network using Sentence-Transformer embeddings.
+    * **Semantic Search**: Building the FAISS index for job retrieval.
+    * **AI Advisor (RAG)**: The final integration of LangChain and Groq for the conversational assistant.
+* **`concept_explanation.md`**: A simplified breakdown of the technical concepts for easy understanding.
+* **`requirements.txt`**: A list of all necessary Python libraries to run the notebook.
 ---
 
-## 🚀 Setup & Installation
 
 ### 1. Clone the Repository
 ```bash
