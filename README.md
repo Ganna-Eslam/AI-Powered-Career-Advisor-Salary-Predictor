@@ -1,0 +1,30 @@
+# AI-Powered Career Advisor & Salary Predictor 🚀
+ is an intelligent system designed to bridge the gap between job seekers and the market. By analyzing LinkedIn job postings, it provides accurate salary predictions using both classical Machine Learning and modern Deep Learning, coupled with a RAG-based AI assistant to answer career-related queries.
+
+---
+
+## 💡 Key Features
+
+* **Salary Prediction**: Implements both **Random Forest** (Classical ML) and **Neural Networks** (Deep Learning) to estimate job salaries based on descriptions and metadata.
+* **Semantic Search**: Uses **FAISS** (Facebook AI Similarity Search) to find relevant jobs based on semantic meaning rather than just keywords.
+* **AI Career Advisor (RAG)**: A conversational AI powered by **LangChain** and **Groq (Llama 3.1)** that provides personalized career advice based on real-time data.
+* **Interactive UI**: A **Gradio** web application for easy interaction with the AI Advisor.
+
+---
+
+## 🛠️ Project Structure
+
+* `src/`: Contains core logic modules (Preprocessing, Models, Search).
+* `app_gradio.py`: The entry point for the Gradio web interface.
+* `main.py`: Script to train models and evaluate performance.
+* `Project_Workflow.ipynb`: A detailed notebook covering the development journey.
+* `concept_explanation.md`: A simple breakdown of the technical concepts.
+
+---
+
+## 🚀 Setup & Installation
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/YOUR_USERNAME/OFOQ-Project.git](https://github.com/YOUR_USERNAME/OFOQ-Project.git)
+cd OFOQ-Project
