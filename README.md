@@ -28,4 +28,4 @@ The project is contained within a comprehensive Jupyter Notebook that covers the
 
 ## 🚀 Live Demo
 You can try the AI-Powered Career Advisor live here:  
-**[Launch Gradio Web App](https://3ae65e2f73999fa2ab.gradio.live)**
+**[Launch Gradio Web App](https://caeac9f71016ee9f28.gradio.live)**
