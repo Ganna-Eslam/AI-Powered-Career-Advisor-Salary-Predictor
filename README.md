@@ -24,3 +24,8 @@ The project is contained within a comprehensive Jupyter Notebook that covers the
 * **`concept_explanation.md`**: A simplified breakdown of the technical concepts for easy understanding.
 * **`requirements.txt`**: A list of all necessary Python libraries to run the notebook.
   
+---
+
+## 🚀 Live Demo
+You can try the AI-Powered Career Advisor live here:  
+**[Launch Gradio Web App](https://3ae65e2f73999fa2ab.gradio.live)**
