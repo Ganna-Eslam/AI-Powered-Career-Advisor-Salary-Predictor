@@ -23,10 +23,4 @@ The project is contained within a comprehensive Jupyter Notebook that covers the
     * **AI Advisor (RAG)**: The final integration of LangChain and Groq for the conversational assistant.
 * **`concept_explanation.md`**: A simplified breakdown of the technical concepts for easy understanding.
 * **`requirements.txt`**: A list of all necessary Python libraries to run the notebook.
----
-
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/OFOQ-Project.git](https://github.com/YOUR_USERNAME/OFOQ-Project.git)
-cd OFOQ-Project
+  
